@@ -1,0 +1,8 @@
+{
+  "name": "Smart Civic Complaint System",
+  "description": "Report civic issues, track real-time resolution progress, and build a better city. Developed by Anish Kumar Singh.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
